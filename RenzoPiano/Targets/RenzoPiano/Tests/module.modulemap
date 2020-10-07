@@ -1,0 +1,4 @@
+module ObjcFeatureA {
+  umbrella header "ObjcFeatureAUmbrella.h"
+  export *
+}

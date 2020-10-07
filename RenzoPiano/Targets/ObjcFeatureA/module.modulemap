@@ -1,0 +1,4 @@
+module FeatureA {
+  umbrella header "API.h"
+  export *
+}
